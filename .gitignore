@@ -1,0 +1,10 @@
+# CMake build trees
+build/
+build-*/
+cmake-build-*/
+
+# IDE / OS
+.DS_Store
+*.xcworkspace/xcuserdata/
+.vscode/
+.idea/
